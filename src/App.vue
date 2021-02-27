@@ -2,6 +2,9 @@
   <div id="app">
     <Header />
     <videotab />
+    <Courses />
+    <Reviews />
+    <Footer />
   </div>
 </template>
 
@@ -13,12 +16,18 @@
 <script>
 import Header from "./components/Header";
 import videotab from "./components/videotab";
+import Courses from "./components/Courses";
+import Reviews from "./components/Reviews";
+import Footer from './components/Footer';
 
 export default {
   name: "App",
   components: {
     Header,
     videotab,
+    Courses,
+    Reviews,
+    Footer
   },
 };
 </script>
