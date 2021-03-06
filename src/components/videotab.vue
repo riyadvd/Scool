@@ -9,12 +9,19 @@
                     <h1 class="title">Digital Marketing 101</h1>
                     <div class="details">
                         <span><i class="fa fa-user-o" aria-hidden="true"></i>By Shashank Mittal</span>
-                        <span><i class="fa fa-tag" aria-hidden="true"></i>12 lectures</span>
-                        <span><i class="fa fa-clock-o" aria-hidden="true"></i>15 hours</span>
-                        <span><i class="fa fa-calendar-o" aria-hidden="true"></i>Last updated Nov 25,2020</span>
+                        <span class="mobile"><i class="fa fa-calendar-o" aria-hidden="true"></i>Feb 4, 2021</span>
+                        <span class="desktop"><i class="fa fa-tag" aria-hidden="true"></i>12 lectures</span>
+                        <span class="desktop"><i class="fa fa-clock-o" aria-hidden="true"></i>9:00 AM to 11:00 AM</span>
+                        <span class="mobile"><i class="fa fa-clock-o " aria-hidden="true"></i>1.5hours</span>
+                        <span class="desktop"><i class="fa fa-calendar-o " aria-hidden="true"></i>Last updated Nov 25,2020</span>
+                        <span class="mobile"><i class="fa fa-tag" aria-hidden="true"></i>12 lectures</span>
                     </div>
-                    <button class="btn book-btn"> Book Now</button>
+                    
                 </div>
+                <div class="video-tab-btn">
+                        <button class="btn book-btn desktop"> Book Now</button>
+                        <button class="btn enroll-btn mobile"> Enroll for a Group Class</button>
+                    </div>
             
 
         </div>

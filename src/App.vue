@@ -1,9 +1,11 @@
 <template>
   <div id="app">
     <Header />
-    <videotab />
-    <Courses />
-    <Reviews />
+    <div class="container">
+      <videotab />
+      <Courses />
+      <Reviews />
+    </div>
     <Footer />
   </div>
 </template>
